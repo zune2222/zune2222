@@ -4,7 +4,6 @@
 
 ![zune2222's github stats](https://github-readme-stats.vercel.app/api?username=zune2222&show_icons=true&theme=swift) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zune2222&layout=compact&theme=dracula)](https://github.com/zune2222)
 
 <hr>
 
