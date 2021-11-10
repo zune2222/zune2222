@@ -1,5 +1,21 @@
+<div align=center><h1>👋 Hi, I’m @zune2222 </h1></div>
 
-                                                          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzune2222&count_bg=%2360BDF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                        
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=300&section=header&text=zune2222&fontSize=90)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zune2222&show_icons=true&theme=swift)
+<div align=center>
+
+![zune2222's github stats](https://github-readme-stats.vercel.app/api?username=zune2222&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zune2222&layout=compact&theme=dracula)](https://github.com/zune2222)
+
+<hr>
+
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzune2222&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/zune2222?style=social)
+
+<a href="https://instagram.com/zu____ne">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+
+</div>
 
