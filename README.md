@@ -15,6 +15,8 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
+    
+<a href="https://opgc.me/#/users/zune2222" target="_blank"><img src="https://api.opgc.me/githubs/users/zune2222/tag/?theme=basic" /></a>
 
 </div>
 
