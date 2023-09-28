@@ -1,8 +1,5 @@
 <div align=center><h1>👋 Hi, I’m @zune2222 </h1></div>
 
-![_com.apple.Pasteboard.U1hw7l.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed1166a5-c479-46a7-aa3c-f3ca107faca1/_com.apple.Pasteboard.U1hw7l.png)
-
-~~*(네 죄송해요 빨리 바꿀게요)*~~
 
 개발자 **박준이**입니다.
 
