@@ -124,7 +124,7 @@ React-Native,Expo,NodeJS…**
     - UTP선 문제 발생시 신속 정확하게 해결 (랜선을 빨리 만들어서 혼나지 않기)
     - 단자함에 빠르고 정확하게 선 랩핑하기
 
-### 에버스톤(EVST)
+### 에버스톤(EVST),Application Developer, Backend Developer
 
 2024.12.30 ~ 2025.07.03 (6개월,부산대학교 현장실습 단기,장기) 
 
