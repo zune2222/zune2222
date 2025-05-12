@@ -8,8 +8,6 @@
 
 <div align=center><h1>👋 Hi, I’m @zune2222 </h1></div>
 
-![image.png](attachment:8214b946-332e-4073-806b-c52db56ecb51:image.png)
-
 개발자 **박준이**입니다.
 
 Mail.   zun_e@kakao.com
@@ -18,7 +16,7 @@ Github.  https://github.com/zune2222
 
 Blog.  [https://zune2222.github.io/](https://zune2222.github.io)
 
-updated at: 2025.01.28
+updated at: 2025.05.12
 
 ## **Introduce.**
 
@@ -143,7 +141,7 @@ React-Native,Expo,NodeJS…**
 
 2023.05.30~
 
-![image.png](attachment:c2c7c68c-28c5-4cfc-9080-31fe0463d571:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3Ac2c7c68c-28c5-4cfc-9080-31fe0463d571%3Aimage.png?table=block&id=1f154091-3632-806f-9d4f-c8d1c22f4ac4&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=2000&userId=&cache=v2)
 
 **개인 블로그**
 
@@ -153,7 +151,7 @@ React-Native,Expo,NodeJS…**
 
 2022.06.20~2022.09.18  *~~(군대 가기 전 날 마지막 버그 픽스…)~~*
 
-![image.png](attachment:6e9f6d89-068f-460c-a49b-6856dc8ac5fe:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A6e9f6d89-068f-460c-a49b-6856dc8ac5fe%3Aimage.png?table=block&id=1f154091-3632-8061-ac90-c1894ab7ff7f&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=1420&userId=&cache=v2)
 
 **군인이 보내는 인터넷 편지**
 
@@ -166,7 +164,7 @@ React-Native,Expo,NodeJS…**
 
 2021.05.14~2021.06.20
 
-![image.png](attachment:8d91d124-9481-4e4a-b0bf-b8a121802e1c:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A8d91d124-9481-4e4a-b0bf-b8a121802e1c%3Aimage.png?table=block&id=1f154091-3632-80ef-bc5f-d18f36cfdf05&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=930&userId=&cache=v2)
 
 **부산대학교 에브리타임을 출처로 하는 부산대 근처 맛집을 알려주는 웹사이트**
 
@@ -177,7 +175,7 @@ React-Native,Expo,NodeJS…**
 
 2021.08.15~2021.08.17
 
-![image.png](attachment:4312dd3f-c0ca-4144-b6de-d38b42b0b3dc:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A4312dd3f-c0ca-4144-b6de-d38b42b0b3dc%3Aimage.png?table=block&id=1f154091-3632-8060-8dc6-d27af3ec4897&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=760&userId=&cache=v2)
 
 **1부터 50까지 숫자를 빠르게 누르면 되는 게임**
 
@@ -187,7 +185,7 @@ React-Native,Expo,NodeJS…**
 
 2021.12.20~2021.12.23
 
-![image.png](attachment:a2822e3e-d465-489e-b2ec-5be8b3e9dad8:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3Aa2822e3e-d465-489e-b2ec-5be8b3e9dad8%3Aimage.png?table=block&id=1f154091-3632-80d9-a2fb-fbe606f05a20&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=780&userId=&cache=v2)
 
 **식물을 키우는데 도움을 주는 어플**
 
@@ -199,7 +197,7 @@ React-Native,Expo,NodeJS…**
 
 2024.07.03~2024.07.05
 
-![image.png](attachment:f8f8a53b-b4b4-45a0-a5e2-966f68df0bbb:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3Af8f8a53b-b4b4-45a0-a5e2-966f68df0bbb%3Aimage.png?table=block&id=1f154091-3632-80bd-a1ee-fa4d02ec8b70&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=760&userId=&cache=v2)
 
 **가족을 위한 AI 개인 영양사**
 
@@ -212,7 +210,7 @@ React-Native,Expo,NodeJS…**
 
 2024.03.30~2025.05
 
-![image.png](attachment:98f81d45-cb22-4e1c-a50b-d4d090e82294:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A98f81d45-cb22-4e1c-a50b-d4d090e82294%3Aimage.png?table=block&id=1f154091-3632-80ab-be66-c92134865f8f&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=770&userId=&cache=v2)
 
 **군인이 보내는 인터넷 편지 앱 버전**
 
@@ -223,9 +221,9 @@ React-Native,Expo,NodeJS…**
 
 2025.02.21~2025.03.10 (유지 보수 중)
 
-![image.png](attachment:48a7b9a6-9549-4783-98c0-bcb3ed7957e7:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A48a7b9a6-9549-4783-98c0-bcb3ed7957e7%3Aimage.png?table=block&id=1f154091-3632-8013-9da5-e47141613dda&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=1420&userId=&cache=v2)
 
-[공별 발표 자료.pdf](attachment:9a6858ce-3efb-4cce-9015-3cff2dbe0d20:공별_발표_자료.pdf)
+[공별 발표 자료.pdf](https://file.notion.so/f/f/50ba5c70-66f2-44d2-a105-d921ca51a3cc/9a6858ce-3efb-4cce-9015-3cff2dbe0d20/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD_%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf?table=block&id=1f154091-3632-800d-8b58-c68508c0676e&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&expirationTimestamp=1747044000000&signature=gwHDecFDv4kakhtbsnjZqyo8KB7JuFufedZcM82k4sg&downloadName=%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A7%E1%86%AF+%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD+%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 우리들만의 소셜 네트워크 플랫폼 **공별 (폐쇄형 SNS)**
 
@@ -236,7 +234,7 @@ React-Native,Expo,NodeJS…**
 
 2025.03.20 (유지 보수 중)
 
-![image.png](attachment:4617e37f-8656-4925-b871-5a7205320184:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A4617e37f-8656-4925-b871-5a7205320184%3Aimage.png?table=block&id=1f154091-3632-803c-818a-c3bae04b0348&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=1420&userId=&cache=v2)
 
 **정보의생명공학대학 학생회 '정의'의 공식 웹사이트**
 
@@ -248,7 +246,7 @@ React-Native,Expo,NodeJS…**
 
 2025.02.07~2025.03.13
 
-![image.png](attachment:9344926f-9fbb-456e-a175-53d8d01eb6bc:image.png)
+![image.png](https://zune2222.notion.site/image/attachment%3A9344926f-9fbb-456e-a175-53d8d01eb6bc%3Aimage.png?table=block&id=1f154091-3632-8074-b04a-eccb888a1395&spaceId=50ba5c70-66f2-44d2-a105-d921ca51a3cc&width=890&userId=&cache=v2)
 
 **외국인 근로자를 위한 AI 기반 법률 상담 플랫폼**
 
